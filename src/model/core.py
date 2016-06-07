@@ -1,4 +1,4 @@
-from model.functions import *
+from src.model.functions import *
 
 
 def main():
